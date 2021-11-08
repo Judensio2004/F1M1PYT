@@ -1,0 +1,10 @@
+vers1 = "mijn naam is Judensio stern"
+vers2 = "ik ben 16 jaar oud"
+vers3 = "ik woon in Amsterdam"
+vers4 = "en heb een hartje van goud"
+vers5 = "ik ben jarig op 7 december, dan zijn de straten koud"
+vers6 = "hopelijk wordt ik rijk en oud"
+vers7 = "en koop ik een villa voor me moeder, de liefste vrouw"
+vers8 = "en nu ben ik klaar met mijn gedicht"
+vers9 = "dit heb ik geschreven met een smile op me gezicht"
+print(vers1,vers2,vers3,vers4,vers5,vers6,vers7,vers8,vers9)
